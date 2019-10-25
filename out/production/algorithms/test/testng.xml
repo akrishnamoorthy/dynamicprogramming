@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+    <test name="algorithms">
+        <classes>
+            <class name="test.RCMHelper"/>
+            <class name="test.RCMHelperTes2"/>
+        </classes>
+    </test> <!-- algorithms -->
+</suite> <!-- Default Suite -->

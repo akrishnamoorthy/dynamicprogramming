@@ -1,7 +1,6 @@
 package dynamicprogramming;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -20,7 +19,7 @@ public class PartitionProblem {
 
     public static void main(String args[]) {
 
-        System.out.println(subsetAddition(16, Arrays.asList(1, 2,17,6, 6)));
+     System.out.println(s);
     }
 
     static boolean subsetAddition(int sum, List<Integer> subset) {
@@ -48,5 +47,24 @@ public class PartitionProblem {
             return false;
         }
         return false;
+    }
+
+    static boolean isSubsetSum(int set[], int n, int sum)
+    {
+        // Base Cases
+        if (sum == 0)
+            return true;
+        if (n == 0 && sum != 0)
+            return false;
+
+        // If last element is greater than sum, then ignore it
+        if (set[n-1] > sum)
+            return isSubsetSum(set, n-1, sum);
+
+   /* else, check if sum can be obtained by any of the following
+      (a) including the last element
+      (b) excluding the last element   */
+        return isSubsetSum(set, n-1, sum) ||
+                isSubsetSum(set, n-1, sum-set[n-1]);
     }
 }
