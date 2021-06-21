@@ -23,16 +23,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7881d970-eb69-48db-8d89-e63db54cff33" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/RoundNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jackson_databind_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/graph/Combination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/graph/CombinationP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/graph/Diameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/graph/GFG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/graph/KSmall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/graph/Pascal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/graph/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/graph/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/graph/StringPermutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/graph/ThreadSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/graph/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/kadane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/Nqueen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/ParanthesisGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/Sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/Sudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/datastructures/list/DoublyLinkedListReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/datastructures/list/DoublyLinkedListReverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/datastructures/list/model/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/datastructures/list/model/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/datastructures/tree/TreeLevelTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/datastructures/tree/TreeLevelTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/dynamicprogramming/LeastOpStringEdit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/dynamicprogramming/LeastOpStringEdit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/dynamicprogramming/LongestCommonSubsequece.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/dynamicprogramming/LongestCommonSubsequece.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/dynamicprogramming/LongestIncreasingSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/dynamicprogramming/LongestIncreasingSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/dynamicprogramming/LongestIncreasingSequenceRecursive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/dynamicprogramming/LongestIncreasingSequenceRecursive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/dynamicprogramming/PartitionProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/dynamicprogramming/PartitionProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/dynamicprogramming/RodCuttingMaximumPrice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/dynamicprogramming/RodCuttingMaximumPrice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/dynamicprogramming/RopeCuttingMaximalProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/dynamicprogramming/RopeCuttingMaximalProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/dynamicprogramming/StarSupserStar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/dynamicprogramming/StarSupserStar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/test/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/test/CalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/test/testng.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dynamicprogramming/PartitionProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicprogramming/PartitionProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicprogramming/test/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/CalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/RoundNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicprogramming/test/RoundNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicprogramming/test/testng.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -48,108 +90,6 @@
     <expand />
     <select />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CalculatorTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/CalculatorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongestCommonSubsequece.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dynamicprogramming/LongestCommonSubsequece.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongestIncreasingSequence.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dynamicprogramming/LongestIncreasingSequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongestIncreasingSequenceRecursive.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dynamicprogramming/LongestIncreasingSequenceRecursive.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PartitionProblem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dynamicprogramming/PartitionProblem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RodCuttingMaximumPrice.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dynamicprogramming/RodCuttingMaximumPrice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RopeCuttingMaximalProduct.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/dynamicprogramming/RopeCuttingMaximalProduct.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="38" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeLevelTraversal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/datastructures/tree/TreeLevelTraversal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StarSupserStar.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dynamicprogramming/StarSupserStar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/Calculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="37" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -160,61 +100,8 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>declaringclass</find>
-      <find>getdecl</find>
-      <find>subsetAddition</find>
-      <find>isSubsetSum</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="modificationStamps">
-      <map>
-        <entry key="$PROJECT_DIR$/../Codebase" value="12177263512200" />
-        <entry key="$PROJECT_DIR$/../Codebase/au-recruiting" value="16684857009594" />
-      </map>
-    </option>
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$/../Codebase/idl-analytics-subjectarea" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../automation" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../automation/build-auto" value="PREVIEW" />
-      </map>
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/datastructures/list/model/Node.java" />
-        <option value="$PROJECT_DIR$/src/datastructures/list/model/LocalizedEnum.java" />
-        <option value="$PROJECT_DIR$/src/datastructures/list/model/SharingType.java" />
-        <option value="$PROJECT_DIR$/src/datastructures/list/FlattenMultilevelList.java" />
-        <option value="$PROJECT_DIR$/src/dynamicprogramming/RodCuttingProgram.java" />
-        <option value="$PROJECT_DIR$/src/dynamicprogramming/LongestCommonSubsequece.java" />
-        <option value="$PROJECT_DIR$/src/dynamicprogramming/LongestIncreasingSequence.java" />
-        <option value="$PROJECT_DIR$/src/dynamicprogramming/LongestIncreasingSequenceRecursive.java" />
-        <option value="$PROJECT_DIR$/src/dynamicprogramming/RopeCuttingMaximalProduct.java" />
-        <option value="$PROJECT_DIR$/src/dynamicprogramming/StarSupserStar.java" />
-        <option value="$PROJECT_DIR$/src/dynamicprogramming/LeastOpStringEdit.java" />
-        <option value="$PROJECT_DIR$/src/dynamicprogramming/RodCuttingMaximumPrice.java" />
-        <option value="$PROJECT_DIR$/src/datastructures/LeastOpStringEdit.java" />
-        <option value="$PROJECT_DIR$/src/datastructures/StarSupserStar.java" />
-        <option value="$PROJECT_DIR$/src/datastructures/list/DoublyLinkedListReverse.java" />
-        <option value="$PROJECT_DIR$/src/test/RCMHelperTes2.java" />
-        <option value="$PROJECT_DIR$/src/test/testng.xml.tld" />
-        <option value="$PROJECT_DIR$/src/test/testng.xml" />
-        <option value="$PROJECT_DIR$/src/test/RCMHelper.java" />
-        <option value="$PROJECT_DIR$/src/test/Dummy.java" />
-        <option value="$PROJECT_DIR$/src/test/RoundNumber.java" />
-        <option value="$PROJECT_DIR$/src/test/Calculator.java" />
-        <option value="$PROJECT_DIR$/src/test/CalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/dynamicprogramming/PartitionProblem.java" />
-      </list>
-    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -225,50 +112,23 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1895" />
-    <option name="height" value="1040" />
-  </component>
+  <component name="ProjectId" id="1eCcOilGktBEKEqj5IjDzqTZcZ9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dynamicprogramming" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../gauge-project" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -294,210 +154,134 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.CalculatorTest">
-    <configuration default="true" type="Applet" factoryName="Applet">
+  <component name="RunManager" selected="Application.Nqueen">
+    <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.graph.GFG" />
+      <module name="algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSort" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.MergeSort" />
+      <module name="algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nqueen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicprogramming.Nqueen" />
+      <module name="algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dynamicprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Producer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.graph.Producer" />
+      <module name="algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringPermutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.graph.StringPermutations" />
+      <module name="algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.graph.ThreadSample" />
+      <module name="algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="CalculatorTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.CalculatorTest" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
-    </configuration>
-    <configuration name="CalculatorTest.testAdd" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.CalculatorTest" />
-      <option name="METHOD_NAME" value="testAdd" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="RCMHelper (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.RCMHelper" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="RCMHelper" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.RCMHelper" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="PACKAGE" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.RCMHelper" />
-      <item itemvalue="TestNG.RCMHelper (2)" />
-      <item itemvalue="TestNG.test" />
-      <item itemvalue="TestNG.CalculatorTest.testAdd" />
-      <item itemvalue="TestNG.CalculatorTest" />
+      <item itemvalue="Application.MergeSort" />
+      <item itemvalue="Application.GFG" />
+      <item itemvalue="Application.StringPermutations" />
+      <item itemvalue="Application.ThreadSample" />
+      <item itemvalue="Application.Producer" />
+      <item itemvalue="Application.Nqueen" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.CalculatorTest" />
-        <item itemvalue="TestNG.CalculatorTest.testAdd" />
-        <item itemvalue="TestNG.RCMHelper" />
-        <item itemvalue="TestNG.test" />
-        <item itemvalue="TestNG.RCMHelper (2)" />
+        <item itemvalue="Application.Nqueen" />
+        <item itemvalue="Application.ThreadSample" />
+        <item itemvalue="Application.Producer" />
+        <item itemvalue="Application.StringPermutations" />
+        <item itemvalue="Application.GFG" />
       </list>
     </recent_temporary>
   </component>
@@ -549,82 +333,27 @@
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="RCMHelper_testSomething - 2019.01.30 at 10h 00m 03s.xml">
-      <configuration name="RCMHelper.testSomething" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="RCMHelper_testSomething - 2019.01.30 at 10h 01m 46s.xml">
-      <configuration name="RCMHelper.testSomething" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="RCMHelper - 2019.01.30 at 10h 02m 49s.xml">
-      <configuration name="RCMHelper" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="RCMHelper_(1) - 2019.01.30 at 10h 03m 25s.xml">
-      <configuration name="RCMHelper (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="RCMHelper_(2) - 2019.01.30 at 10h 03m 51s.xml">
-      <configuration name="RCMHelper (2)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="RCMHelper - 2019.01.30 at 10h 04m 23s.xml">
-      <configuration name="RCMHelper" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="RCMHelperTes2_testSomething - 2019.01.30 at 10h 06m 02s.xml">
-      <configuration name="RCMHelperTes2.testSomething" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="test - 2019.01.30 at 10h 07m 50s.xml">
-      <configuration name="test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CalculatorTest - 2019.01.30 at 12h 11m 24s.xml">
-      <configuration name="CalculatorTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CalculatorTest - 2019.01.30 at 12h 11m 49s.xml">
-      <configuration name="CalculatorTest" configurationId="TestNG" />
-    </history-entry>
-  </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="103212000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info id="Image Layers" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.56827587" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Sequence" order="13" />
-      <window_info anchor="bottom" id="IvyIDEA" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2903646" />
-      <window_info anchor="bottom" id="TeamCity" order="12" />
-      <window_info anchor="right" id="Database" order="5" weight="0.3295302" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3986207" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.32827586" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -632,269 +361,169 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/dynamicprogramming/src/LongestIncreasingSequenceRecursive.java</url>
           <line>29</line>
-          <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/dynamicprogramming/src/LeastOpStringEdit.java</url>
           <line>32</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/dynamicprogramming/src/LeastOpStringEdit.java</url>
           <line>29</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/dynamicprogramming/src/PartitionProblem.java</url>
           <line>33</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/dynamicprogramming/PartitionProblem.java</url>
-          <line>54</line>
-          <properties />
+          <line>56</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/InsertionSort.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/InsertionSort.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dynamicprogramming/test/Calculator.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/datastructures/graph/Permutation.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/datastructures/graph/CombinationP.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/datastructures/graph/CombinationP.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/datastructures/graph/CombinationP.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/datastructures/graph/StringPermutations.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dynamicprogramming/GCD.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dynamicprogramming/GCD.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dynamicprogramming/GCD.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dynamicprogramming/GCD.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dynamicprogramming/GCD.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dynamicprogramming/GCD.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dynamicprogramming/ParanthesisGenerator.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dynamicprogramming/Sudoku.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dynamicprogramming/Sudoku.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dynamicprogramming/Sudoku.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="(board[0][2] ==1 &amp;&amp; board[1][0] == 1)" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/dynamicprogramming/Nqueen.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dynamicprogramming/Sorting.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/datastructures/graph/Pascal.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/datastructures/graph/KSmall.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/datastructures/graph/KSmall.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/datastructures/kadane.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/datastructures/graph/Diameter.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/datastructures/graph/Diameter.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/datastructures/graph/RestClass.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/datastructures/graph/GFG.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="5" />
     </breakpoint-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateCodeFragment">
-      <expression>
-        <expression-string>set[n-1]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>max</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/datastructures/list/model/SharingType.java" />
-    <entry file="jar://C:/opt/sapjvm_7/src.zip!/java/lang/Enum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2686">
-          <caret line="195" column="43" selection-start-line="195" selection-start-column="26" selection-end-line="195" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructures/list/DoublyLinkedListReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructures/list/FlattenMultilevelList.java" />
-    <entry file="file://$PROJECT_DIR$/src/datastructures/list/LinkedListReverse.java" />
-    <entry file="file://$PROJECT_DIR$/algorithms.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamicprogramming/src/LongestCommonSubsequece.java" />
-    <entry file="file://$PROJECT_DIR$/dynamicprogramming/src/LongestIncreasingSequence.java" />
-    <entry file="file://$PROJECT_DIR$/dynamicprogramming/src/StarSupserStar.java" />
-    <entry file="file://$PROJECT_DIR$/src/datastructures/list/DoublyLinkedListReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructures/list/model/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructures/list/FlattenMultilevelList.java" />
-    <entry file="file://$PROJECT_DIR$/src/datastructures/list/LinkedListReverse.java" />
-    <entry file="file://$PROJECT_DIR$/algorithms.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamicprogramming/src/LongestCommonSubsequece.java" />
-    <entry file="file://$PROJECT_DIR$/dynamicprogramming/src/LongestIncreasingSequence.java" />
-    <entry file="file://$PROJECT_DIR$/dynamicprogramming/src/StarSupserStar.java" />
-    <entry file="file://$PROJECT_DIR$/src/datastructures/list/DoublyLinkedListReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructures/list/model/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://C:/opt/sapjvm_7/src.zip!/java/lang/Enum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2686">
-          <caret line="195" column="43" selection-start-line="195" selection-start-column="26" selection-end-line="195" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructures/list/model/LocalizedEnum.java" />
-    <entry file="jar://C:/opt/sapjvm_7/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32895">
-          <caret line="1996" selection-start-line="1996" selection-end-line="1996" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamicprogramming/src/StarSupserStar.java" />
-    <entry file="file://$PROJECT_DIR$/dynamicprogramming/src/LongestIncreasingSequence.java" />
-    <entry file="file://$PROJECT_DIR$/dynamicprogramming/src/LongestCommonSubsequece.java" />
-    <entry file="file://$PROJECT_DIR$/dynamicprogramming/src/RopeCuttingMaximalProduct.java" />
-    <entry file="file://$PROJECT_DIR$/dynamicprogramming/src/LongestIncreasingSequenceRecursive.java" />
-    <entry file="file://$PROJECT_DIR$/dynamicprogramming/src/RodCuttingMaximumPrice.java" />
-    <entry file="file://$PROJECT_DIR$/dynamicprogramming/src/PartitionProblem.java" />
-    <entry file="file://$PROJECT_DIR$/dynamicprogramming/src/LeastOpStringEdit.java" />
-    <entry file="file://$PROJECT_DIR$/src/datastructures/list/FlattenMultilevelList.java" />
-    <entry file="file://$PROJECT_DIR$/src/datastructures/list/LinkedListReverse.java" />
-    <entry file="file://$PROJECT_DIR$/src/datastructures/list/model/SharingType.java" />
-    <entry file="file://$PROJECT_DIR$/src/datastructures/list/model/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructures/list/DoublyLinkedListReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamicprogramming/LeastOpStringEdit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/RCMHelperTes2.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/Dummy.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/RoundNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/CalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamicprogramming/LongestCommonSubsequece.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructures/tree/TreeLevelTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamicprogramming/StarSupserStar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamicprogramming/RodCuttingMaximumPrice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamicprogramming/PartitionProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamicprogramming/LongestIncreasingSequenceRecursive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamicprogramming/LongestIncreasingSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamicprogramming/RopeCuttingMaximalProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

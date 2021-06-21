@@ -3,8 +3,8 @@
 <suite name="Default Suite">
     <test name="algorithms">
         <classes>
-            <class name="test.RCMHelper"/>
-            <class name="test.RCMHelperTes2"/>
+            <class name="dynamicprogramming.test.RCMHelper"/>
+            <class name="dynamicprogramming.test.RCMHelperTes2"/>
         </classes>
     </test> <!-- algorithms -->
 </suite> <!-- Default Suite -->

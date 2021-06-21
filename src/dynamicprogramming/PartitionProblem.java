@@ -1,6 +1,7 @@
 package dynamicprogramming;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
 
 /**
@@ -19,7 +20,8 @@ public class PartitionProblem {
 
     public static void main(String args[]) {
 
-     System.out.println(s);
+     System.out.println("Dsf");
+        HashSet set = new HashSet();
     }
 
     static boolean subsetAddition(int sum, List<Integer> subset) {
